@@ -1,15 +1,14 @@
 # Surton Inc
 
-Surton provides DevOps Services for Effortless Business Automation. We excel in implementing seamless automation solutions to eliminate your business’s pain points.
+Surton provides fractional expert engineering services for startups and scaleups.
 
 ## Our Services
 
-- Fractional DevOps Engineer
+- Fractional Engineer
 - Fractional CTO
-- DevOps Consulting
-- DevOps Implementation
-- DevOps Automation
-- DevOps Training
+- Consulting
+- Business Automation
+- Training
 
 ## Links
 
